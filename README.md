@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nageh</h1>
-<h3 align="center">IM Student IT IM from Egypt</h3>
+<h3 align="center">IM IT Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednageh-694&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednageh-694" /> </p>
 
@@ -19,8 +19,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/YUNKO SHANKS"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="YUNKO SHANKS" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmednageh-694&show_icons=true&locale=en&layout=compact" alt="ahmednageh-694" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednageh-694&show_icons=true&locale=en" alt="ahmednageh-694" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednageh-694&" alt="ahmednageh-694" /></p>
