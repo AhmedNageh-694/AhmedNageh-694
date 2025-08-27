@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednageh-694&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednageh-694" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednageh-694" alt="ahmednageh-694" /></a> </p>
-
 - 🔭 I’m currently working on Barca News Application [Barca_news](https://github.com/AhmedNageh-694/Barca_news.git)
 
 - 🌱 I’m currently learning MobileApp Devopment **Flutter**
@@ -27,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmednageh-694&show_icons=true&locale=en&layout=compact" alt="ahmednageh-694" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednageh-694&show_icons=true&locale=en" alt="ahmednageh-694" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednageh-694&" alt="ahmednageh-694" /></p>
